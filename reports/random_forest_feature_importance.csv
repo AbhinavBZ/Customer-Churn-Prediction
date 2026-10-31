@@ -1,0 +1,46 @@
+Feature,Importance
+num__tenure,0.12724865031282473
+num__TotalCharges,0.10633678871860765
+cat__Contract_Month-to-month,0.10439360639380205
+num__MonthlyCharges,0.07362142789718862
+cat__Contract_Two year,0.057325034767268926
+cat__OnlineSecurity_No,0.05158829144615107
+cat__TechSupport_No,0.04794472918436921
+cat__InternetService_Fiber optic,0.047835139521567545
+cat__PaymentMethod_Electronic check,0.039860703928132304
+cat__Contract_One year,0.02171446806831795
+cat__OnlineBackup_No,0.01932926169340222
+cat__InternetService_DSL,0.018183773473535465
+cat__OnlineSecurity_Yes,0.01572391107331671
+cat__TechSupport_Yes,0.013493130590079427
+cat__PaperlessBilling_No,0.012860867999756843
+cat__PaperlessBilling_Yes,0.012266910463343494
+cat__DeviceProtection_No,0.012090374700609634
+cat__OnlineSecurity_No internet service,0.010290850646742691
+cat__gender_Male,0.010198454232840862
+cat__gender_Female,0.010037669279130346
+cat__OnlineBackup_Yes,0.00972529667553012
+cat__InternetService_No,0.009514390479473766
+cat__StreamingMovies_No internet service,0.009338633487297696
+cat__Dependents_Yes,0.009164045847276982
+cat__Partner_Yes,0.008976500395709368
+cat__Partner_No,0.008925920780214314
+cat__PaymentMethod_Credit card (automatic),0.008536845018669971
+cat__StreamingMovies_Yes,0.008486818858590216
+cat__MultipleLines_No,0.008365710006950884
+cat__MultipleLines_Yes,0.00836086454143703
+cat__StreamingTV_No internet service,0.00824201524352567
+cat__Dependents_No,0.00806562475196337
+cat__StreamingMovies_No,0.00795116576760677
+cat__StreamingTV_No,0.007894845374290619
+cat__DeviceProtection_No internet service,0.007811125923675369
+cat__TechSupport_No internet service,0.0077535874925115
+cat__PaymentMethod_Bank transfer (automatic),0.0077456331328331005
+cat__StreamingTV_Yes,0.0075539826869330555
+cat__DeviceProtection_Yes,0.007478565043203589
+num__SeniorCitizen,0.007340504921268327
+cat__PaymentMethod_Mailed check,0.0065937346490459
+cat__OnlineBackup_No internet service,0.005445349304454574
+cat__PhoneService_Yes,0.0030742318756982016
+cat__PhoneService_No,0.002733721381565911
+cat__MultipleLines_No phone service,0.002576841969285822
